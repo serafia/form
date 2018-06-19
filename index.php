@@ -28,7 +28,7 @@ if(isset($_POST['submit'])){
     <body data-spy="scroll" data-target="#navbar" data-offset="100">
 
 
-<form class="contact-form" method="post" id="contactForm" action="send_form_email.php">
+<form class="contact-form" method="post" id="contactForm" action="">
                                       
                         <div class="inputs-container form-group">
                             <label class="inputs-container__label" for="name">Imię</label>
